@@ -1,1 +1,2 @@
 # gitTest
+gitignore연습
